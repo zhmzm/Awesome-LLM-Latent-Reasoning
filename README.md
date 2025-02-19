@@ -10,8 +10,6 @@ Latent reasoning in Large Language Models (LLMs) refers to the implicit, hidden,
 
 ### 2025 
 
-[Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/pdf/2502.03275)
-
 [LLM Pretraining with Continuous Concepts](https://arxiv.org/pdf/2502.08524)
 
 [Efficient Reasoning with Hidden Thinking](https://arxiv.org/pdf/2501.19201)
@@ -29,6 +27,8 @@ Latent reasoning in Large Language Models (LLMs) refers to the implicit, hidden,
 ## 🕮 Embedding Enhanced Reasoning
 
 ### 2025 
+
+[Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/pdf/2502.03275)
 
 [Scalable Language Models with Posterior Inference of Latent Thought Vectors](https://arxiv.org/pdf/2502.01567)
 
