@@ -10,6 +10,8 @@ Latent reasoning in Large Language Models (LLMs) refers to the implicit, hidden,
 
 ### 2025 
 
+[Scaling up Test-Time Compute with Latent Reasoning:  A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171)
+
 [LLM Pretraining with Continuous Concepts](https://arxiv.org/pdf/2502.08524)
 
 [Efficient Reasoning with Hidden Thinking](https://arxiv.org/pdf/2501.19201)
