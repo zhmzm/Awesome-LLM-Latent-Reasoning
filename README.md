@@ -39,8 +39,12 @@ Latent reasoning in Large Language Models (LLMs) refers to the implicit, hidden,
 [Scalable Language Models with Posterior Inference of Latent Thought Vectors](https://arxiv.org/pdf/2502.01567)
 
 ### 2024 
+
+[LATENT SPACE CHAIN-OF-EMBEDDING ENABLES OUTPUT-FREE LLM SELF-EVALUATION](https://arxiv.org/pdf/2410.13640v1)
+
 [Think before you speak: Training language models with pause tokens](https://arxiv.org/pdf/2310.02226)
 
 [Guiding Language Model Reasoning with Planning Tokens](https://arxiv.org/pdf/2310.05707)
+
 
 
