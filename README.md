@@ -74,10 +74,3 @@ Latent reasoning in LLMs refers to the implicit, hidden, or unobservable reasoni
 - 🔗 **Related GitHub Repositories**: [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)
 
 ---
-
-
-## 📑 **Additional Resources**
-- 📌 **Surveys & Tutorials**: Coming soon!
-- 🛠️ **Datasets & Benchmarks**: Coming soon!
-- 🔗 **Related GitHub Repositories**: [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)
----
